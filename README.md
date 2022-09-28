@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Blazeblitz276
-- 👀 I’m interested in AI - CV related tech
-- 🌱 I’m currently looking to PG in CS
-- 💞️ I’m looking to collaborate on ML and CV project 
+- 👀 I’m interested in AI- DeepLearning - CV related projects 
+- 🌱 I’m currently a Grad Student at Indiana University Bloomington for MS in Data Science
+- 💞️ I’m looking to collaborate on ML, DL and/or CV and tons of other affiliated fields of study
 - 📫 How to reach me sbdevesha1998@gmail.com
 
 <!---
