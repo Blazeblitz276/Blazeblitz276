@@ -9,7 +9,7 @@
 
 - 👯 I’m looking for jobs in **Computer Vision, Machine learning and Data Analysis projects**
 
-- 👨‍💻 All of my projects are available at [blazeblitz276.github.io](blazeblitz276.github.io)
+- 👨‍💻 All of my projects are available at [blazeblitz276.github.io](https://blazeblitz276.github.io/)
 
 - 💬 Ask me about **Statistics, ML/DL modelling and EDA**
 
