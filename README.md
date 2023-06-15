@@ -1,21 +1,23 @@
 <h1 align="center">Hi 👋, I'm Balajee Devesha S</h1>
-<h3 align="center">A passionate Data Scientist from India currently pursuing MS in Data Science at IUB</h3>
+<h3 align="center">A passionate Data Scientist from India currently pursuing MS in Data Science at IU Bloomington</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blazeblitz276&label=Profile%20views&color=0e75b6&style=flat" alt="blazeblitz276" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blazeblitz276" alt="blazeblitz276" /></a> </p> -->
 
-- 🔭 I’m currently working on **AWS and cloud based ETL projects**
+- 🔭 I’m currently working on **Data Analysis and DL projects**
 
-- 👯 I’m looking for jobs in **Computer Vision, Machine learning and Data Analysis projects**
+- 👯 I’m looking for jobs in **Data Science and ML domain**
 
-- 👨‍💻 All of my projects are available at [blazeblitz276.github.io](https://blazeblitz276.github.io/)
+- 👨‍💻 All of my projects will be available at [blazeblitz276.github.io](https://blazeblitz276.github.io/)
 
-- 💬 Ask me about **Statistics, ML/DL modelling and EDA**
+- 💬 Im all about **Statistics, ML/DL modeling, and EDA**
 
 - 📫 How to reach me **sbdevesha1998@gmail.com**
 
 - 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1Oqp8ZwTP5J_4xF53ht_ymHenSk8VtJU0/view?usp=sharing)
+
+- 🌱 Extras: I can speak 6 Languages but the big 3 being English, Hindi and Japanese
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
