@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Balajee Devesha S</h1>
-<h3 align="center">A passionate Data Scientist from India currently pursuing MS in Data Science at IU Bloomington</h3>
+<h3 align="center">A passionate Data Scientist currently pursuing MS in Data Science at IU Bloomington</h3>
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=blazeblitz276&label=Profile%20views&color=0e75b6&style=flat" alt="blazeblitz276" /> </p>
 
