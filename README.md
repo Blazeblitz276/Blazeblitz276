@@ -9,7 +9,7 @@
 
 - 👯 I’m looking for jobs in **Data Science and ML domain**
 
-<!-->- 👨‍💻 All of my projects will be available at [blazeblitz276.github.io](https://blazeblitz276.github.io/)</>
+<!--<p> - 👨‍💻 All of my projects will be available at [blazeblitz276.github.io](https://blazeblitz276.github.io/)/></p>
 
 - 💬 Im all about **Statistics, ML/DL modeling, and EDA**
 
