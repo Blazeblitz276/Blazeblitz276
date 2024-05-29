@@ -30,11 +30,11 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <a href="https://www.r-project.org/" target="_blank"> <img src="https://www.r-project.org/Rlogo.png" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
-<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a>
+<!-- <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> -->
+<!-- <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> -->
 <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://assets.cdn.prod.twilio.com/original_images/flask-oauth.png" alt="flask" width="40" height="40"/> </a>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a>
+<!-- <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> -->
 <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
@@ -48,8 +48,8 @@
 <!-- <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/> </a> -->
 <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/> </a>
-<a href="http://soda.io" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oun2af08ie8t1u6kp97b" alt="soda" width="40" height="40"/> </a>
-<a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_809aa88d3571ee805a47d8fb156ba412/apache-kafka.jpg" alt="kafka" width="40" height="40"/> </a>
+<!-- <a href="http://soda.io" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oun2af08ie8t1u6kp97b" alt="soda" width="40" height="40"/> </a> -->
+<!-- <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_809aa88d3571ee805a47d8fb156ba412/apache-kafka.jpg" alt="kafka" width="40" height="40"/> </a> -->
 <!-- <a href="https://zookeeper.apache.org" target="_blank" rel="noreferrer"> <img src="https://zookeeper.apache.org/images/zookeeper_small.gif" alt="zookeeper" width="40" height="40"/> </a> -->
 <a href="https://spark.apache.org" target="_blank" rel="noreferrer"> <img src="https://spark.apache.org/images/spark-logo-rev.svg" alt="spark" width="40" height="40"/> </a>
 <!-- <a href="https://docs.docker.com/desktop/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/452192/docker.svg" alt="docker" width="40" height="40"/> </a> -->
