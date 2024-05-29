@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **sbdevesha1998@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1i-2tw2jXaZXdmiRE5kMc9LJ-ddyyD3kj/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1xOYne0kWmuXYsb-FwozUc8_gvEPMXiRj/view?usp=sharing)
 
 - 🌱 Extras: I can speak 6 Languages but the big 3 being English, Hindi and Japanese
 
