@@ -46,7 +46,7 @@
 <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/354428/tableau-icon.svg" alt="tableau" width="40" height="40"/> </a>
 <!-- <a href="https://airflow.apache.org" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353380/airflow.svg" alt="airflow" width="40" height="40"/> </a> -->
-<a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a>
+<!-- <a href="https://cloud.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> -->
 <a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/amazon-web-services-2.svg" alt="aws" width="40" height="40"/> </a>
 <!-- <a href="http://soda.io" target="_blank" rel="noreferrer"> <img src="https://images.crunchbase.com/image/upload/c_pad,h_170,w_170,f_auto,b_white,q_auto:eco,dpr_1/oun2af08ie8t1u6kp97b" alt="soda" width="40" height="40"/> </a> -->
 <!-- <a href="https://kafka.apache.org" target="_blank" rel="noreferrer"> <img src="https://images.g2crowd.com/uploads/product/image/large_detail/large_detail_809aa88d3571ee805a47d8fb156ba412/apache-kafka.jpg" alt="kafka" width="40" height="40"/> </a> -->
